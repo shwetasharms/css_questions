@@ -1,7 +1,31 @@
 https://www.interviewbit.com/css-interview-questions/
 
+01.01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0101-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0102-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0103-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0104-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0105-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0106-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0107-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0108-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0109-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01010-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01011-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01012-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01013-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01014-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01015-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01016-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01017-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01018-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01019-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01020-welcome)
+01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01021-welcome)
 
-## 1- What is the Box model in CSS? Which CSS properties are a part of it?
+
+
+
+01.01. What is the Box model in CSS? Which CSS properties are a part of it?
 ### A rectangle box is wrapped around every HTML element. The box model is used to determine the height and width of the rectangular box. The CSS Box consists of Width and height (or in the absence of that, default values and the content inside), padding, borders, margin.
 
 ## 2- What are the different types of Selectors in CSS?
