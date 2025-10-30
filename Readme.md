@@ -1,28 +1,125 @@
 https://www.interviewbit.com/css-interview-questions/
+Absolutely — even as a React developer with 5 years of experience, interviewers will **expect strong CSS fundamentals + advanced concepts + real-world problem-solving**. Below is a **focused list of CSS questions for senior frontend engineers**.
 
-01.01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0101-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0102-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0103-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0104-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0105-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0106-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0107-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0108-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#0109-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01010-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01011-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01012-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01013-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01014-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01015-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01016-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01017-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01018-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01019-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01020-welcome)
-01. [What is the Box model in CSS? Which CSS properties are a part of it?](#01021-welcome)
+---
 
+## ✅ **CSS Topics You Must Expect**
 
+**They will check:**
+
+* Deep CSS fundamentals
+* Layout Systems (Flexbox, Grid)
+* Performance & scalability
+* Responsive design
+* CSS Architecture & maintainability
+* Animations & transitions
+* Browser rendering, debugging, and cross-browser issues
+* Modern CSS features (custom properties, container queries etc.)
+* Styling approach in React (CSS-in-JS, modules, styled-components, Tailwind)
+
+---
+
+## 📌 **CSS Interview Questions for 5+ Years Experience**
+
+### 🎯 **Core & Theory**
+
+1. Difference between `display: none` vs `visibility: hidden` vs `opacity: 0`
+2. What is the CSS Box Model? Explain border-box vs content-box
+3. Explain CSS Specificity & how the browser resolves conflicts
+4. Explain Cascade, Inheritance, and Priority order
+5. What are pseudo-classes vs pseudo-elements? Examples
+6. What is the difference between `rem`, `em`, `vh`, `vw`, and `%`
+7. What is the stacking context? Explain z-index issues and fixes
+8. What is Reflow vs Repaint? How to reduce them?
+9. What is BEM methodology? Why use it?
+10. Explain CSS variables — advantages vs SASS variables
+
+---
+
+### 🔥 **Layout & Positioning**
+
+11. Difference between relative, absolute, fixed, sticky positioning
+12. Flexbox — common properties & layout examples:
+
+* `justify-content`, `align-items`, `align-content`
+* `flex: 1`, `flex-wrap`, `flex-shrink`, `flex-basis`
+
+13. Grid layout — how is it different from Flexbox?
+14. When do you choose Grid vs Flex vs Float?
+15. Box-alignment in grid vs flex
+16. Create a 3-column layout without using flex/grid (float or inline-block approach)
+
+---
+
+### 📱 **Responsive & UI Practices**
+
+17. What are media queries? Give examples (mobile-first vs desktop-first)
+18. How do you make images responsive? `object-fit` vs background-image
+19. What is Mobile First CSS and why?
+20. Explain container queries — use cases
+21. What is responsive typography? e.g. `clamp()`
+
+---
+
+### ✨ **Visuals — Animation & Effects**
+
+22. Difference between `transform` vs `translate` vs `transition`
+23. CSS animation performance tips (GPU acceleration)
+24. What is `will-change` and when to avoid using it?
+25. How to create a smooth hover effect with CSS only?
+
+---
+
+### 🧠 **Advanced / Real-World CSS**
+
+26. Explain Critical CSS & how to lazy-load CSS
+27. What is a CSS preprocessor? SASS vs LESS
+28. What are CSS Modules? Pros/cons in React
+29. Styled-Components vs Tailwind vs traditional CSS — when to use what?
+30. CSS Architecture patterns you use:
+
+* BEM
+* ITCSS
+* Atomic CSS
+
+31. How to avoid global CSS conflicts?
+32. Explain `content-visibility` and performance benefits
+33. Explain `@layer` in modern CSS
+34. Difference between static, fluid, and adaptive layouts
+35. Vendor prefixing — handled by PostCSS? Why needed earlier?
+
+---
+
+### 🧩 **Browser & Debugging**
+
+36. CSS debugging techniques in Chrome DevTools
+37. What is FOUC (Flash of Unstyled Content)?
+38. What is CLS (Cumulative Layout Shift)? How CSS affects it?
+39. How to handle cross-browser UI bugs?
+40. Why fonts cause layout shifts? How to fix? (`font-display`)
+
+---
+
+### 👨‍💻 **React-Specific CSS Questions**
+
+41. Explain how CSS Modules work in React
+42. Styled-components vs Emotion — major differences
+43. Tailwind + React — benefits and drawbacks
+44. CSS-in-JS performance issues — how to avoid?
+45. How do you style components dynamically in React?
+
+---
+
+### 🧠 **Scenario-Based CSS Questions**
+
+| Scenario                        | Expected Concept          |
+| ------------------------------- | ------------------------- |
+| Center a div                    | Flexbox / Grid / position |
+| Two divs side by side           | Flex/Grid/inline-block    |
+| Sticky header & overflow scroll | `position: sticky`        |
+| Text ellipsis clamp             | `-webkit-line-clamp`      |
+| Equal height cards              | Flexbox/Grid              |
+| Responsive navbar               | Flex + Media queries      |
 
 
 01.01. What is the Box model in CSS? Which CSS properties are a part of it?
