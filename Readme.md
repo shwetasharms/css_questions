@@ -1,24 +1,6 @@
 https://www.interviewbit.com/css-interview-questions/
 Absolutely — even as a React developer with 5 years of experience, interviewers will **expect strong CSS fundamentals + advanced concepts + real-world problem-solving**. Below is a **focused list of CSS questions for senior frontend engineers**.
 
----
-
-## ✅ **CSS Topics You Must Expect**
-
-**They will check:**
-
-* Deep CSS fundamentals
-* Layout Systems (Flexbox, Grid)
-* Performance & scalability
-* Responsive design
-* CSS Architecture & maintainability
-* Animations & transitions
-* Browser rendering, debugging, and cross-browser issues
-* Modern CSS features (custom properties, container queries etc.)
-* Styling approach in React (CSS-in-JS, modules, styled-components, Tailwind)
-
----
-
 ## 📌 **CSS Interview Questions for 5+ Years Experience**
 
 ### 🎯 **Core & Theory**
