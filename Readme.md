@@ -1,11 +1,16 @@
-https://www.interviewbit.com/css-interview-questions/
-Absolutely — even as a React developer with 5 years of experience, interviewers will **expect strong CSS fundamentals + advanced concepts + real-world problem-solving**. Below is a **focused list of CSS questions for senior frontend engineers**.
-
 ## 📌 **CSS Interview Questions for 5+ Years Experience**
 
 ### 🎯 **Core & Theory**
 
 1. Difference between `display: none` vs `visibility: hidden` vs `opacity: 0`
+2. What is CSS specificity hierarchy? 
+//
+Inline styles 
+ID selector
+Class selector
+Element selector 
+//
+
 2. What is the CSS Box Model? Explain border-box vs content-box
 3. Explain CSS Specificity & how the browser resolves conflicts
 4. Explain Cascade, Inheritance, and Priority order
